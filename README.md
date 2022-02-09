@@ -25,7 +25,7 @@ I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in
 
 - :zap: In my free time, I like to read, cook/bake, learn, and serve in my community
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-dedrick)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Spencer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-dedrick)
 
 Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.com/)
 
