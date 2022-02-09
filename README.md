@@ -13,7 +13,7 @@ Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.co
 <br>
 
 <a href="https://github.com/SpencerDedrick/nixonclone">
-  <img align="center" style="margin:0.5rem" src="https://www.spencerdedrick.com/images/eCommerce.png" />
+  <img align="center" style="margin:0.5rem max-height: 200px" src="https://www.spencerdedrick.com/images/eCommerce.png" />
 </a>
 
 <br>
