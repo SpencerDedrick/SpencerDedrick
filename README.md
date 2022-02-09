@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/spencer-dedrick">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://spencerdedrick.com">
-    <img src="https://img.shields.io/badge/Y#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  <div></div>
   <a href="https://twitter.com/Spencer_Dedrick">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
