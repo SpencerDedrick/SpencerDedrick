@@ -2,6 +2,18 @@
 
 ![](https://komarev.com/ghpvc/?username=SpencerDedrick&color=blueviolet)[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Spencer_Dedrick)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/spencer-dedrick)
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/spencer-dedrick">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="http://spencerdedrick.com">
+    <img src="https://img.shields.io/badge/Y#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Spencer_Dedrick">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ### Hi Hello, 👋
 
 I’m Spencer, a full-stack engineer, and software developer specializing in frontend development. I have a passion for technology and empowering others. I'm currently looking for employment opportunities in the tech industry.
@@ -9,7 +21,6 @@ I’m Spencer, a full-stack engineer, and software developer specializing in fro
 Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.com/)
 
 ## 📌 Pinned Repositories
-<br>
 <a href="https://github.com/SpencerDedrick/spencer-dedrick">
 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=spencer-dedrick&theme=midnight-purple" />
@@ -22,10 +33,13 @@ Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.co
 
 </a>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDedrick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
+## 💼 Skills
 
 
 
