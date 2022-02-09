@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=SpencerDedrick)
+![](https://komarev.com/ghpvc/?username=SpencerDedrick&color=blueviolet)
 
 <!--
 **SpencerDedrick/SpencerDedrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
