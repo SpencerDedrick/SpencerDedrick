@@ -17,13 +17,13 @@
 
 ### About Me:
 
-I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in javascript and frontend development I have a passion for technology and empowering others. I'm currently looking for employment opportunities in the tech industry.:eyes:
+I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in javascript and frontend development I have a passion for technology and empowering others. I'm currently looking for employment opportunities in the tech industry. :eyes:
 
 - :telescope: I'm working on my first fullstack project that I hope to share with the world very soon.
 
 - :seedling: I'm currently exploring and learning Node.js
 
-- :zap: In my free time, I like to read, cook/bake, learn, and serve in my community
+- :zap: In my free time, I like to read, learn, cook (and eat), and serve in my community
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Spencer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-dedrick)
 
