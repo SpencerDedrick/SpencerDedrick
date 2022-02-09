@@ -13,8 +13,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=SpencerDedrick&style=flat-square&color=blueviolet" alt=""/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerDedrick&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### About Me:
@@ -25,7 +23,7 @@ I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in
 
 - :seedling: I'm currently exploring and learning Node.js
 
-- :zap: In my free time, I like to read, learn, and serve others in my community
+- :zap: In my free time, I like to read, cook/bake, learn, and serve in my community
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-dedrick)
 
@@ -36,9 +34,28 @@ Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.co
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </div>
+  
+  ---
+  
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SpencerDedrick&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDedrick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📌 Pinned Repositories
+
+<br>
+
 <a href="https://github.com/SpencerDedrick/spencer-dedrick">
 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=spencer-dedrick&theme=midnight-purple" />
@@ -50,29 +67,4 @@ Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.co
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=nixonclone&theme=midnight-purple" />
 
 </a>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDedrick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-## 💼 Skills
-
-
-
-<!--
-**SpencerDedrick/SpencerDedrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
