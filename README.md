@@ -17,7 +17,7 @@
 
 ### About Me:
 
-I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in javascript and frontend development I have a passion for technology and empowering others. I'm currently looking for employment opportunities in the tech industry. :eyes:
+I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in javascript and frontend development. I have a passion for technology and empowering others. I'm currently looking for employment opportunities in the tech industry. :eyes:
 
 - :telescope: I'm working on my first fullstack project that I hope to share with the world very soon.
 
