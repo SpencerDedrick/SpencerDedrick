@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/SpencerDedrick/SpencerDedrick.svg?style=flat-square)](http://hits.dwyl.com/SpencerDedrick/SpencerDedrick)
+![](https://komarev.com/ghpvc/?username=SpencerDedrick)
 
 <!--
 **SpencerDedrick/SpencerDedrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
