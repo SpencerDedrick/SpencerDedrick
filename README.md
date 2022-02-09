@@ -52,6 +52,8 @@ Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDedrick&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### 📌 Pinned Repositories
 
 <br>
