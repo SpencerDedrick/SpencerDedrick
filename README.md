@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerDedrick&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDedrick)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=SpencerDedrick&color=blueviolet)[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Spencer_Dedrick)[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/spencer-dedrick)
 
 ### Hi Hello, 👋
