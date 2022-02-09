@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerDedrick&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+### Hi Hello, 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/spencer-dedrick">
@@ -8,10 +8,16 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=SpencerDedrick&style=flat-square&color=blueviolet" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=SpencerDedrick&style=flat-square&color=blueviolet" alt=""/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerDedrick&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 
-### Hi Hello, 👋
+
+
+
 
 I’m Spencer, a full-stack engineer, and software developer specializing in frontend development. I have a passion for technology and empowering others. I'm currently looking for employment opportunities in the tech industry.
 
