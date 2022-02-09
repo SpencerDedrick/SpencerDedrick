@@ -4,7 +4,7 @@
 
 <a href="https://github.com/SpencerDedrick/spencer-dedrick">
 
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=spencer-dedrick&theme=midnightpurple" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=spencer-dedrick&theme=midnight-purple" />
 
 </a>
 
@@ -12,7 +12,7 @@
 
 <a href="https://github.com/SpencerDedrick/nixonclone">
 
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=nixonclone&theme=midnightpurple" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=nixonclone&theme=midnight-purple" />
 
 </a>
 
