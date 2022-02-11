@@ -70,3 +70,9 @@ Want to learn more about me? [Check out my portfolio.](https://spencerdedrick.co
 
 </a>
 
+<a href="https://github.com/SpencerDedrick/calculator-app">
+
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerDedrick&repo=spencer-dedrick&theme=midnight-purple" />
+
+</a>
+
