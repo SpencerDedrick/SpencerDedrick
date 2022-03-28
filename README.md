@@ -21,7 +21,7 @@ I’m Spencer, a full-stack engineer based out of Houston Texas. I specialize in
 
 - :telescope: I'm working on my first fullstack project that I hope to share with the world very soon.
 
-- :seedling: I'm currently exploring and learning Node.js
+- :seedling: I'm currently exploring and learning Node.js and Express
 
 - :zap: In my free time, I like to read, learn, cook (and eat), and serve in my community
 
